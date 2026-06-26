@@ -11,4 +11,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/basappabaluragi/LeetCode-problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

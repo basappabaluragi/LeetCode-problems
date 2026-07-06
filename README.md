@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/basappabaluragi/LeetCode-problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -27,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/basappabaluragi/LeetCode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

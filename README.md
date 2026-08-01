@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/basappabaluragi/LeetCode-problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0007-reverse-integer) |
+| [0486-predict-the-winner](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/basappabaluragi/LeetCode-problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
